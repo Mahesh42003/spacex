@@ -1,0 +1,38 @@
+.background-colour {
+  background-color: #000000;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.space-x-heading {
+  color: #ffffff;
+}
+
+.names-displaying {
+  display: flex;
+}
+
+.space {
+  margin: 20px;
+}
+
+.alignment {
+  text-align: center;
+}
+
+.paragraph-width {
+  width: 30%;
+  align-self: flex-start;
+  margin-left: 50px;
+}
+
+.overview-displaying {
+  display: flex;
+  justify-content: space-between;
+}
+
+.span-colour {
+  color: grey;
+}
